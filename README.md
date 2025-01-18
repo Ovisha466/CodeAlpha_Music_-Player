@@ -21,7 +21,8 @@
 
 ### Demo Screeshots
 
-![Music Player Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![desktop](https://github.com/user-attachments/assets/2c577a8b-f0c6-4bbe-975b-a2245f1a5366)
+
 
 ### Prerequisites
 
